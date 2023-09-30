@@ -12,8 +12,8 @@ While we want to fix all the [issues](https://github.com/Anurag-Negi28/contact_l
 ## Project Setup
 
 
-Project Name:	Contact Book project in Python
-Abstract:	This is a simple app that can be used to handle contacts related to addresses or phones.
-Language/Technologies Used:	Python, Tkinter, Sqlite3
-Database:	SQLite3
-Python version (Recommended):	3.x
+Project Name:	Contact Book project in Python<br>
+Abstract:	This is a simple app that can be used to handle contacts related to addresses or phones.<br>
+Language/Technologies Used:	Python, Tkinter, Sqlite3<br>
+Database:	SQLite3<br>
+Python version (Recommended):	3.x<br>
