@@ -19,7 +19,9 @@ Version 1 of the project has been uploaded. You can set up the project in your s
 
 Login page
 
-![Login Page](Login_page.jpg)
+<p align="center">
+  <img src="Login_page.jpg" alt="Login Page">
+</p>
 
 Version 2 GUI after login
 
