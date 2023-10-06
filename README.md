@@ -9,3 +9,18 @@ Version 1 of the project has been uploaded. You can set up the project in your s
 ## Version 1
 
 ![Version 1](Version1.jpg)
+
+## Issues
+
+<li>Login page issue has been addressed in the Version2 of the project</li>
+<li>Display error in the GUI of Version1 has also been addressed in the Version2 of the project</li>
+
+## Version 2
+
+Login page
+
+![Login Page](Login_page.jpg)
+
+Version 2 GUI after login
+
+![Version 2](Version2.jpg)
